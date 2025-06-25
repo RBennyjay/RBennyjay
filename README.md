@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about technology, web development, 
 ## 🚀 About Me
 
 - 🌍 Based in Nigeria 🇳🇬  
-- 💻 I work with HTML, CSS, JavaScript, PHP, Laravel, Python, and C#  
+- 💻 I work with HTML, CSS, JavaScript, PHP, Laravel, Python, C#, and Java  
 - 🎯 Currently learning advanced backend development and DevOps  
 - 🤝 Always open to collaborating on exciting tech projects  
 
