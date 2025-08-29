@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbennyjay&label=Profile+Visitors&color=blue&style=flat" alt="Visitor Counter" />
-</p>
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <img width="1536" height="1024" alt="mybenny" src="https://github.com/user-attachments/assets/8b0d4b26-bb59-4571-95cc-225106bd0a0f" />
 
-
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
-<h3 align="center">I'm Benny Jay — Full-Stack Developer</h3>
 
 ---
 
@@ -16,16 +11,6 @@
 - 🤝 Open to collaborating on exciting tech projects
 
 ---
-
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rbennyjay/rbennyjay/main/assets/banner.png" alt="Benny Jay's Banner" width="100%" />
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbennyjay&style=flat-square&color=blue" alt="Visitor Counter" />
-</p>
 
 ---
 
@@ -72,12 +57,10 @@
 
 ### 👁️ Profile Visitor Counter
 
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbennyjay&label=Profile+Visitors&color=blue&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=rbennyjay&style=flat-square&color=blue" alt="Visitor Counter" />
 </p>
-<img width="1536" height="1024" alt="mybenny" src="https://github.com/user-attachments/assets/8b0d4b26-bb59-4571-95cc-225106bd0a0f" />
-
-
 
 <!---
 RBennyjay/RBennyjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
