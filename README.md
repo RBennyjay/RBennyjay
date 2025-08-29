@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/rbennyjay/rbennyjay/blob/main/<img width="1536" height="1024" alt="mybenny" src="https://github.com/user-attachments/assets/072641e1-d4fe-490a-acc4-ba780c8e7881" />
-?raw=true" alt="Benny Jay GitHub Banner"/>
-</p>
-
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <h3 align="center">I'm Benny Jay — Full-Stack Developer</h3>
 
