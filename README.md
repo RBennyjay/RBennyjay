@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbennyjay&label=Profile+Visitors&color=blue&style=flat" alt="Visitor Counter" />
+</p>
+<img width="1536" height="1024" alt="mybenny" src="https://github.com/user-attachments/assets/8b0d4b26-bb59-4571-95cc-225106bd0a0f" />
+
+
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <h3 align="center">I'm Benny Jay — Full-Stack Developer</h3>
 
