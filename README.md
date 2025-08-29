@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🌍 Based in **Nigeria** 🇳🇬  
-- 💻 I work with **HTML, CSS, JavaScript, PHP, Laravel, Python, C#, and Java**
+- 💻 I work with **HTML, CSS, JavaScript, PHP, Laravel, Python, C#, Node.js, Express.js and Java**
 - 🎯 Currently learning **Advanced Backend Development, Web Services, and DevOps**
 - 🤝 Open to collaborating on exciting tech projects
 
