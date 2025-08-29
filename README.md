@@ -1,7 +1,6 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <img width="1536" height="1024" alt="mybenny" src="https://github.com/user-attachments/assets/8b0d4b26-bb59-4571-95cc-225106bd0a0f" />
 
-
 ---
 
 ### 🚀 About Me
@@ -12,7 +11,6 @@
 
 ---
 
----
 
 🛠️ **Technologies & Tools**
 
@@ -48,6 +46,8 @@
 ![Benny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbennyjay&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbennyjay&layout=compact&theme=tokyonight)
 
+---
+
 ### 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mystar207@gmail.com)
  
@@ -62,6 +62,7 @@
   <img src="https://komarev.com/ghpvc/?username=rbennyjay&style=flat-square&color=blue" alt="Visitor Counter" />
 </p>
 
+---
 <!---
 RBennyjay/RBennyjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
